@@ -1,0 +1,8 @@
+#include <stdlib.h>
+#include <time.h>
+/* more headers goes here */
+
+/* betty style docs for function main goes here */
+int main(void)
+{
+  
