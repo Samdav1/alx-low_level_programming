@@ -4,7 +4,7 @@
 
 /* betty style doc for function main goes here */
 int main(void)
-{
+
 	int n;
 
 	srand(time(0));
