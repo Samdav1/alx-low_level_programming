@@ -3,6 +3,12 @@
 #include <stdio.h>
 /* more headers goes there */
 
+/**
+ * main - determines if the value of the random number ** generated is positive, zero or negative
+ *
+ * Return: returns zero at the end 
+ */ 
+
 /* betty style doc for function main goes here */
 int main(void)
 {
