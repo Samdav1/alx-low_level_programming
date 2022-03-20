@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 0x01. C - Variables, if, else, while
 
 
@@ -33,3 +34,7 @@ Find the C files and the decscription of twhat they do below:
 | [100-print_comb3.c](./100-print_comb3.c) | Prints all possible different combinations of two digits, separated by `,` |
 | [101-print_comb4.c](./101-print_comb4.c) | Prints all possible different combinations of three digits, separated by `,` |
 | [102-print_comb5.c](./102-print_comb5.c) | Prints all possible combinations of two two-digit numbers |
+=======
+# New to variables
+know how to code
+>>>>>>> 6b1065e5eea1cf8edb75fb9824e77275ccfe4da7
